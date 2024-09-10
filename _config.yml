@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hannah Tarder-Stollssssss
+title: Hannah Tarder-Stolls
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -26,13 +26,62 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: hannahtstoll
+# github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: minimal-mistakes-jekyll
+# plugins:
+#   - jekyll-feed
+
+atom_feed:
+  hide: true
+
+author:
+  name    : "Hannah Tarder-Stolls"
+  avatar  : "/docs/assets/images/headshot.jpg"
+  # bio     : "test~"
+  links: 
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "htarder-stoll@research.baycrest.org"
+    - label: 'orcid ID'
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0009-0007-0957-4499"
+    - label: 'Google Scholar'
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.ca/citations?user=MLy0N4IAAAAJ&hl=en&oi=ao"
+    - label: "Twitter"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/hannahtstoll"
+
+include:
+  - _pages
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: home
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
