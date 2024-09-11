@@ -61,6 +61,10 @@
 	font-stretch: normal;
 }
 
+.sidebar {
+	opacity: 1;
+}
+
 * {
 	box-sizing: border-box;
 	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
