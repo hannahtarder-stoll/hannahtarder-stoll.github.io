@@ -40,7 +40,7 @@ atom_feed:
 author:
   name    : "Hannah Tarder-Stolls"
   avatar  : "/docs/assets/images/headshot.jpg"
-  # bio     : "test~"
+  bio     : "Postdoctoral researcher, Rotman Research Institute"
   links: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
