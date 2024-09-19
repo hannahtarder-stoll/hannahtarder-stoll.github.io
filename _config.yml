@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hannah Tarder-Stolls
+title: Hannah Tarder-Stoll
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -38,7 +38,7 @@ atom_feed:
   hide: true
 
 author:
-  name    : "Hannah Tarder-Stolls"
+  name    : "Hannah Tarder-Stoll"
   avatar  : "/docs/assets/images/headshot.jpg"
   bio     : "Postdoctoral researcher, Rotman Research Institute"
   links: 
