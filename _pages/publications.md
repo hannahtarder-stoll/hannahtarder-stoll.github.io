@@ -63,10 +63,10 @@ H Tarder-Stoll\*, M Jayakymar\*, E Günseli, H Dimsdale-Zucker, M Aly
 Neuropsychologia, 2020 [[pdf]](/docs/assets/pdfs/publications/dynamic-internal-states.pdf){:target="_blank"}
 </div>
 
-<p style="font-size: 16px;">* indicates equal contributions</p>
+***
 
-{% if page.custom_css %}
+<p style="font-size: 16px;">* denotes equal contributions</p>
+
 <style>
     {{ page.custom_css }}
 </style>
-{% endif %}
