@@ -39,8 +39,10 @@ Psychological Science, 2024 [[pdf]](/docs/assets/pdfs/publications/consolidation
 Investigating how reward retroactively improves memory for associations and items
 
 H Tarder-Stoll, M Schlichting\*, K Duncan\*
-Registered Report, Accepted In-Principle, Journal of Experimental Psychology: General, 2024 [[pdf]](/docs/assets/pdfs/publications/investigating-how-reward.pdf)
+
+Registered Report, Accepted In-Principle, Journal of Experimental Psychology: General, 2024 [[pdf]](/docs/assets/pdfs/publications/investigating-how-reward.pdf){:target="_blank"}
 </div>
+
 <div class="pub" markdown="1">
 Aging shifts the relative contributions of episodic and semantic memory to decision-making.
 
