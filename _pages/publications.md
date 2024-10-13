@@ -18,7 +18,24 @@ custom_css: |
       color: grey;
      }
 ---
-<!-- ## Preprints -->
+## Preprints and manuscripts under review
+<div class="pub" markdown="1">
+Prediction and encoding are coupled, not competitive
+
+Poskanzer, C.\*, Tarder-Stoll, H.\*,  Javid, R.,  Spoloare, E., Aly, M.
+
+Submitted, 2024, Preprint:
+[[pdf]](/docs/assets/pdfs/publications/Poskanzer_psyarxiv_preprint.pdf)
+</div>
+
+<div class="pub" markdown="1">
+Deep learning improves physician accuracy in the comprehensive detection of abnormalities on chest X-rays
+
+Anderson, P.G., Tarder-Stoll, H., Alpaslan, M., Keathley, N., Levin, D, Venkatesh, S., Bartel, E., Sicular, S., Howell, S., Lindsey, R.V., Jones, R.M.
+
+Submitted, 2023 
+</div>
+
 ## Peer-reviewed
 <div class="pub" markdown="1">
 The brain hierarchically represents the past and future during multistep anticipation
