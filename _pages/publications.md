@@ -29,12 +29,15 @@ Submitted, 2024, Preprint:
 </div>
 
 <div class="pub" markdown="1">
-Deep learning improves physician accuracy in the comprehensive detection of abnormalities on chest X-rays
+Neural and behavioral reinstatement jointly reflect retrieval of narrative events
 
-Anderson, P.G., Tarder-Stoll, H., Alpaslan, M., Keathley, N., Levin, D, Venkatesh, S., Bartel, E., Sicular, S., Howell, S., Lindsey, R.V., Jones, R.M.
+Nau, M., Greene, A., Tarder-Stoll, H., Lossio-Ventura, J.A., Pereira, F., Baldassano, C., Chen, J., Baker, C.I.
 
-Submitted, 2023 
+Submitted, 2024, Preprint:
+[[pdf]](/docs/assets/pdfs/publications/neural-behav-reinstatement.pdf)
 </div>
+
+
 
 ## Peer-reviewed
 <div class="pub" markdown="1">
@@ -42,7 +45,7 @@ The brain hierarchically represents the past and future during multistep anticip
 
 H Tarder-Stoll, C Baldassano\*, M Aly\*
 
-In press, Nature Communications, 2024 [[pdf]](/docs/assets/pdfs/publications/brain-hierarchically.pdf)
+Nature Communications, 2024 [[pdf]](/docs/assets/pdfs/publications/brain-hierarchically.pdf)
 </div>
 
 <div class="pub" markdown="1">
@@ -58,6 +61,14 @@ Investigating how reward retroactively improves memory for associations and item
 H Tarder-Stoll, M Schlichting\*, K Duncan\*
 
 Registered Report, Accepted In-Principle, Journal of Experimental Psychology: General, 2024 [[pdf]](/docs/assets/pdfs/publications/investigating-how-reward.pdf){:target="_blank"}
+</div>
+
+<div class="pub" markdown="1">
+Deep learning improves physician accuracy in the comprehensive detection of abnormalities on chest X-rays
+
+Anderson, P.G., Tarder-Stoll, H., Alpaslan, M., Keathley, N., Levin, D, Venkatesh, S., Bartel, E., Sicular, S., Howell, S., Lindsey, R.V., Jones, R.M.
+
+Scientific Reports, 2024 [[pdf]](/docs/assets/pdfs/publications/chest-CAD.pdf){:target="_blank"} 
 </div>
 
 <div class="pub" markdown="1">
