@@ -57,6 +57,24 @@ Submitted, 2024, Preprint:
 
 
 
+## Preprints
+<div class="pub" markdown="1">
+The brain hierarchically represents the past and future during multistep anticipation
+
+H Tarder-Stoll, C Baldassano\*, M Aly\*
+
+In press, Nature Communications, 2024 [[pdf]](/docs/assets/pdfs/publications/brain-hierarchically.pdf)
+</div>
+
+<div class="pub" markdown="1">
+The brain hierarchically represents the past and future during multistep anticipation
+
+H Tarder-Stoll, C Baldassano\*, M Aly\*
+
+In press, Nature Communications, 2024 [[pdf]](/docs/assets/pdfs/publications/brain-hierarchically.pdf)
+</div>
+
+
 ## Peer-reviewed
 <div class="pub" markdown="1">
 The brain hierarchically represents the past and future during multistep anticipation
