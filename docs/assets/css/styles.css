@@ -83,3 +83,22 @@
 .page p {
 	font-size: 18px;
 }
+
+// get rid of the intro fade-in, which breaks lighthouse, making it hard for us to evaluate SEO.
+@-webkit-keyframes intro {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes intro {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 1;
+	}
+}
