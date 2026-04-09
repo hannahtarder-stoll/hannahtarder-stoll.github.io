@@ -20,13 +20,17 @@ custom_css: |
 ---
 ## Preprints and manuscripts under review
 
+
 <div class="pub" markdown="1">
-Adaptive episodic memory: How multiple memory representations drive behaviour in humans and non-humans
+The hippocampus rapidly updates sequence representations during multistep prediction
 
-H Tarder-Stoll, M.J.  Sekeres, B Levine, M  Moscovitch
+H Tarder-Stoll, C Baldassano \*, M Aly\*
 
-Submitted, 2025
+Submitted, 2025, Preprint:
+[[pdf]](/docs/assets/pdfs/publications/SchermExt.pdf)
 </div>
+
+
 
 <div class="pub" markdown="1">
 Binding items to contexts through conjunctive neural representations with the Method of Loci
@@ -37,27 +41,38 @@ Submitted, 2025, Preprint:
 [[pdf]](/docs/assets/pdfs/publications/MOL.pdf)
 </div>
 
+
+## Peer-reviewed
 <div class="pub" markdown="1">
-Prediction and encoding are coupled, not competitive
+Adaptive episodic memory: How multiple memory representations drive behaviour in humans and non-humans
+
+H Tarder-Stoll, M.J.  Sekeres, B Levine, M  Moscovitch
+
+Physiological Reviews, 2026
+[[pdf]](/docs/assets/pdfs/publications/adaptive_epmem.pdf)
+</div>
+
+
+
+<div class="pub" markdown="1">
+Successful prediction is associated with enhanced encoding
 
 C Poskanzer\*, H Tarder-Stoll\*,  R Javid,  E Spoloare, M Aly
 
-Submitted, 2024, Preprint:
-[[pdf]](/docs/assets/pdfs/publications/Poskanzer_psyarxiv_preprint.pdf)
+Open Mind, 2025
+[[pdf]](/docs/assets/pdfs/publications/Poskanzer_openMind.pdf)
 </div>
+
 
 <div class="pub" markdown="1">
 Neural and behavioral reinstatement jointly reflect retrieval of narrative events
 
 M Nau, A Greene, H Tarder-Stoll, J.A. Lossio-Ventura, F Pereira, C Baldassano, J Chen, C.I. Baker 
 
-Submitted, 2024, Preprint:
+Nature Communications, 2025
 [[pdf]](/docs/assets/pdfs/publications/neural-behav-reinstatement.pdf)
 </div>
 
-
-
-## Peer-reviewed
 <div class="pub" markdown="1">
 The brain hierarchically represents the past and future during multistep anticipation
 

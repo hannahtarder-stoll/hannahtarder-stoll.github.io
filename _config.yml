@@ -40,20 +40,20 @@ atom_feed:
 author:
   name    : "Hannah Tarder-Stoll"
   avatar  : "/docs/assets/images/headshot.jpg"
-  bio     : "Postdoctoral Fellow, Rotman Research Institute"
+  bio     : "Assistant Professor, York University, Glendon Campus"
   links: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "htarder-stoll@research.baycrest.org"
+      url: "mailto:htstoll@yorku.ca"
     - label: 'orcid ID'
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0009-0007-0957-4499"
     - label: 'Google Scholar'
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.ca/citations?user=MLy0N4IAAAAJ&hl=en&oi=ao"
-    - label: "Twitter"
-      icon: "fa-brands fa-x-twitter"
-      url: "https://x.com/hannahtstoll"
+    - label: "Bluesky"
+      #icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/hannahtarder-stoll.bsky.social"
 
 include:
   - _pages
